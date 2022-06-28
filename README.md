@@ -7,7 +7,7 @@ Tech Lead & Full Stack Software Engineer
 I used to be a React and Node fanatic until I found the wonderful world of Elixir & Phoenix. I've been referred to as Mr. Side Project for obvious reasons. I also take photos sometimes.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [chriis.dev](http://chriis.sev)
+* 🖥️  See my portfolio at [chriis.dev](http://chriis.dev)
 * 🚀  I'm currently working on [Play Date iOS Video Game Tracker](http://apps.apple.com/us/app/play-date-calendar/id987119779?platform=iphone)
 * 🧠  I'm learning SwiftUI & OTP design patterns
 * ⚡  I'm currently writing my first book 😳
